@@ -192,10 +192,3 @@ JSON com os dados dos produtos.
 ```
 
 
-
-
-
-
-
-
-# scraping_athenas
